@@ -55,8 +55,8 @@ footer {
 
 .gallery-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr); /* two columns */
-  gap: 25px; /* space between images */
+  grid-template-columns: repeat(2, 1fr); 
+  gap: 25px; 
   justify-items: center;
 }
 
@@ -76,7 +76,7 @@ footer {
 
 
 
-/* Gallery section */
+
 .gallery-section {
  text-align: center;
  margin: 40px auto;
@@ -98,7 +98,7 @@ footer p {
 }
 
 nav a {
-  color: #f5deb3; /* light warm color */
+  color: #f5deb3; 
 }
 
 img {
